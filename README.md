@@ -1,4 +1,4 @@
-🎮 Tic Tac Toe Game – HTML, CSS & JavaScript
+🎮 Tic Tac Toe Game – HTML, CSS & JavaScript by Aong Sing Marma
 
 A fully interactive Tic Tac Toe web game built using pure HTML, CSS, and Vanilla JavaScript. The game supports two players, allows custom name input, automatically detects wins and draws, and features a modal-based UI.
 
