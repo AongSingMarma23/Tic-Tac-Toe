@@ -129,6 +129,3 @@ function endGame(winnerId){
         gameOver.firstElementChild.textContent = 'It\'s a Draw!';
     }
 }
-
-
-//start from 316 
